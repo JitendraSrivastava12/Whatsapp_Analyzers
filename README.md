@@ -4,7 +4,7 @@
   </p>
 
   <h3>🔗 Link to Web App</h3>
-  <p><a href="https://whatsapp-analyzers-jijujis.onrender.com/">Try it out here</a></p>
+  <p><a href="https://whatsapp-chat-analyzer-jituji.streamlit.app/">Try it out here</a></p>
   <h3>🚀 Features</h3>
   <ul>
     <li>📈 Daily and monthly activity tracking</li>
